@@ -1,12 +1,13 @@
 Caixa Eletrônico em Kotlin
 
-* Funcionalidades
+ Funcionalidades
 - Depositar
 - Sacar
 - Consultar saldo
 - Sair do sistema
 
-* Nome do Grupo:
+
+ Nome do Grupo:
 - Aline Dayane
 - Mateus Gomes
 - Natália Lacerda
